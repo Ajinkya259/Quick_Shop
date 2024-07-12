@@ -4,9 +4,8 @@
  
  
 ### Home page
-![1](<img width="1680" alt="Screenshot 2024-06-24 at 6 33 56 PM" src="https://github.com/Ajinkya259/Quick_Shop/assets/163128787/0ebeada7-ccb9-4d81-8988-05199b178517">
+![1](![603646BE-255A-4693-8277-0F5177596FA3](https://github.com/user-attachments/assets/f650989a-cbf8-4b84-83a5-9240273ce208)
 )
-
 
 
 ### Content Description page
